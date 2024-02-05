@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=investor080&label=Profile%20views&color=0e75b6&style=flat" alt="investor080" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@lawalalamoyo" target="blank"><img src="https://img.shields.io/twitter/follow/@lawalalamoyo?logo=twitter&style=for-the-badge" alt="@lawalalamoyo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@lawalalamoyo" target="blank"><img src="https://img.shields.io/twitter/follow/lawalalamoyo?logo=twitter&style=for-the-badge" alt="@lawalalamoyo" /></a> </p>
 
 - 🔭 I’m currently working on **an E-commerce app**
 
